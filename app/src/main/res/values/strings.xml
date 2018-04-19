@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SocialApp</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="auth_failed">Failed to Authenticate</string>
+    <string name="auth_success">Authentication was successful</string>
+    <string name="dbname_users">users</string>
+    <string name="dbname_user_account_settings">user account settings</string>
+    <string name="dbname_photos">photos</string>
+    <string name="dbname_user_photos">user_photos</string>
+    <string name="profile_fragment">Profile</string>
+    <string name="calling_activity">calling_activity</string>
+    <string name="profile_activity">Profile Activity</string>
+    <string name="field_username">Field Username</string>
+    <string name="field_email">Email</string>
+    <string name="confirm_password_dialog">ConfirmPasswordDialog</string>
+    <string name="display_name">Display name</string>
+    <string name="website">Website</string>
+    <string name="description">Description</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="gallery">Gallery</string>
+    <string name="picture">Picture</string>
+    <string name="string_open_camera">OPEN CAMERA</string>
+    <string name="next">Next</string>
+    <string name="selected_image">Selected_image</string>
+    <string name="upload">Upload</string>
+    <string name="new_picture">new picture</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="return_to_fragment">return_to_fragment</string>
+    <string name="selected_bitmap">selected_bitmap</string>
+
+
+
+</resources>
